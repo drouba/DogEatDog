@@ -77,3 +77,10 @@ DerivedDataCache/*
 DogEatDog/Intermediate/*
 *.blend1
 DogEatDog/Saved
+DogEatDog/Saved/Telemetry/Telemetry.json
+DogEatDog/Saved/SourceControl/UncontrolledChangelists.json
+DogEatDog/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt
+DogEatDog/Saved/Logs/DogEatDog.log
+DogEatDog/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+DogEatDog/Saved/AutoScreenshot.png
+DogEatDog/Saved/Autosaves/PackageRestoreData.json
