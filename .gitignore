@@ -76,4 +76,4 @@ DerivedDataCache/*
 # Project intermediate
 DogEatDog/Intermediate/*
 *.blend1
-/DogEatDog/Saved
+DogEatDog/Saved
